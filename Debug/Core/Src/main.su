@@ -1,0 +1,16 @@
+../Core/Inc/as5600.h:71:17:AS5600_new	8	static
+../Core/Inc/as5600.h:72:19:AS5600_init	16	static
+../Core/Inc/as5600.h:80:19:AS5600_write_config_register	32	static
+../Core/Inc/as5600.h:87:19:AS5600_get_rawAngle	40	static
+../Core/Inc/as5600.h:94:19:AS5600_get_angle	40	static
+../Core/Inc/micros.h:39:22:DWT_Init	4	static
+../Core/Inc/micros.h:52:26:micros	4	static
+../Core/Src/main.c:61:6:HAL_TIM_PeriodElapsedCallback	40	static
+../Core/Src/main.c:73:9:PID1	48	static
+../Core/Src/main.c:106:5:main	136	static
+../Core/Src/main.c:178:6:SystemClock_Config	72	static
+../Core/Src/main.c:218:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:252:13:MX_TIM2_Init	64	static
+../Core/Src/main.c:323:13:MX_TIM3_Init	32	static
+../Core/Src/main.c:368:13:MX_GPIO_Init	24	static
+../Core/Src/main.c:386:6:Error_Handler	4	static,ignoring_inline_asm
